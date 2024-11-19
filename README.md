@@ -4,7 +4,8 @@
 - 💞️ I’m looking to collaborate on: any projects people are open to 
 - 📫 How to reach me: either at atlas1023@tutamail.com or just leave something for me on github 
 - 😄 Pronouns: he/him
-- ⚡ Fun fact: I am a massive nerd and know a little bit about everything 
+- ⚡ Fun fact: I am a massive nerd and know a little bit about everything
+- extra fact: I do plan to relase a file containg some scripts and stuff I have made for others to use/test and comment on
 
 <!---
 Atlas1023-cyber-ops/Atlas1023-cyber-ops is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
